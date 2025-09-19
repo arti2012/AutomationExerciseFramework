@@ -258,4 +258,5 @@ public void waitForElementToBeClickable(By locator) {
         }
         return element;
     }
+
 }

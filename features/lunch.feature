@@ -15,3 +15,4 @@ Feature: Product purchase flow on Automation Exercise
     Examples:
         | email | password | 
         | raiarti@tgh.com | test@123 |
+        

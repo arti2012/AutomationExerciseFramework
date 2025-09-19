@@ -25,3 +25,4 @@ public class Locaters {
     public By logoutButton = By.xpath("//a[@href='/logout']");
 
 }
+
